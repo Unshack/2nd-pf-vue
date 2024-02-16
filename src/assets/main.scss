@@ -138,18 +138,19 @@ span {
         filter: invert(0.8);
         color: #000000;
         mix-blend-mode: difference;
+        opacity: 80%;
       }
       img {
         // filter: saturate(0%);
         // background-color: $bg-light;
+        opacity: 80%;
 
         &.light {
           display: block;
-          opacity: 10%;
         }
         &.dark {
           display: none;
-          opacity: 10%;
+          opacity: 80%;
         }
       }
     }
