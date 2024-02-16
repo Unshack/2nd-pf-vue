@@ -6,7 +6,7 @@
           <h2>
             <span
               >FRONT-END<br />
-              DEVELOPER</span
+              WEB DEVELOPER</span
             >
           </h2>
           <div class="images">
