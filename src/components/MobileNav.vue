@@ -26,7 +26,7 @@
           >
         </div>
         <div class="header-buttons">
-          <a target="_blank" href="/marckoDev.pdf">
+          <a target="_blank" href="/Resume2024.pdf">
             <button type="button" class="btn btn_download">
               <span>DOWNLOAD RESUME</span>
             </button>
